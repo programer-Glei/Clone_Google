@@ -12,9 +12,9 @@
         <section class="header-cont">
             <a href="index.php" class="logo"><img src="img/logo-gmail.png" alt=""> <span>Gmail</span> </a>
             <nav>
-                <a href="">Para o trabalho</a>
-                <a href="">Fazer login</a>
-                <a href="">Criar uma conta</a>
+                <a href="" class="button h-trab">Para o trabalho</a>
+                <a href="" class="button h-log">Fazer login</a>
+                <a href="" class="button h-cont">Criar uma conta</a>
             </nav>
         </section>
     </header>
