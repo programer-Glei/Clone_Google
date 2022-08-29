@@ -18,5 +18,17 @@
             </nav>
         </section>
     </header>
+    <main>
+        <section class="home">
+            <div class="home-row">
+                <div class="home-row-box">
+                    <div class="title">E-mail seguro, inteligente e fácil de usar</div>
+                </div>
+                <div class="home-row-box">
+                    
+                </div>
+            </div>
+        </section>
+    </main>
 </body>
 </html>

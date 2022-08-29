@@ -139,4 +139,12 @@ header .header-cont nav .h-log:hover {
   border-color: #8ab4f8;
   color: #174ea6;
 }
+
+.title {
+  font-size: 6.4rem;
+  line-height: 7.4rem;
+  color: #202124;
+  font-family: "Google Sans","Roboto",Arial,sans-serif;
+  font-weight: 500;
+}
 /*# sourceMappingURL=estilo.css.map */
